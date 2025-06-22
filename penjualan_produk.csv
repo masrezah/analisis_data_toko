@@ -1,0 +1,9 @@
+tanggal,produk,jumlah_terjual,harga_satuan,total_penjualan,wilayah
+2024-01-01,Laptop,5,1000,5000,Barat
+2024-01-01,Mouse,20,25,500,Timur
+2024-01-02,Keyboard,10,75,750,Utara
+2024-01-02,Monitor,3,200,600,Selatan
+2024-01-03,Laptop,7,1000,7000,Barat
+2024-01-03,Mouse,15,25,375,Utara
+2024-01-04,Keyboard,8,75,600,Timur
+2024-01-04,Monitor,4,200,800,Selatan
